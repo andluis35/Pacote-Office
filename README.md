@@ -1,5 +1,5 @@
 # Pacote-Office
-**Projetos de Portfólio construídos com as ferramentas do Pacote Office - WORD, EXCEL, POWERPOINT, POWER BI**
+**Projetos de Portfólio construídos com as ferramentas do Pacote Office - WORD, EXCEL, POWERPOINT**
 
 ---
 **Desenvolvido por:** Anderson Luis
